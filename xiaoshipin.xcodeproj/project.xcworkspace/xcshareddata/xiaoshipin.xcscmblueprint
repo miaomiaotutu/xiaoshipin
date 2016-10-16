@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F74D777180B61FB56F835C20B5DF262FE3C73C1C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "be73ea83-1ef3-4b60-8caa-c8a69a106ff0++9413" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "be73ea83-1ef3-4b60-8caa-c8a69a106ff0++9413" : 0,
+    "F74D777180B61FB56F835C20B5DF262FE3C73C1C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C64CE3DF-AD46-4078-8B3E-7A525EDF09FB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "be73ea83-1ef3-4b60-8caa-c8a69a106ff0++9413" : "xiaoshipin\/xiaoshipin\/SDWebImage\/",
+    "F74D777180B61FB56F835C20B5DF262FE3C73C1C" : "xiaoshipin\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "xiaoshipin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "xiaoshipin.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/miaomiaotutu\/xiaoshipin.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F74D777180B61FB56F835C20B5DF262FE3C73C1C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.svnchina.com\/svn\/finalversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "be73ea83-1ef3-4b60-8caa-c8a69a106ff0++9413"
+    }
+  ]
+}
